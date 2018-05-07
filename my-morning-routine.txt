@@ -1,3 +1,4 @@
  I wake up at 6.
 :x
-I then brush my teeth.
+I then brush my teeth
+I don't generally wake up at 6.
